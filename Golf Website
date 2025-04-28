@@ -1,1 +1,346 @@
+CTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Central - Home</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
 
+        header {
+            background-color: #28a745; /* Golf course green */
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        nav {
+            background-color: #343a40; /* Dark grey for navigation */
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+        }
+
+        nav a:hover {
+            background-color: #495057;
+            border-radius: 5px;
+        }
+
+        main {
+            padding: 2em;
+            max-width: 800px;
+            margin: 2em auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1em auto;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #343a40;
+            color: white;
+            position:relative;
+            bottom:0;
+            width:100%;
+        }
+
+        .h2{
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Golf Central</h1>
+        <p>Your ultimate source for all things golf.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="equipment.html">Equipment</a>
+        <a href="tips.html">Tips</a>
+    </nav>
+
+    <main>
+        <h2>Latest News</h2>
+        <p>Stay up-to-date with the latest golf news, tournament results, and player profiles.</p>
+        <img src="images/allan-nygren--xvKQuNtOhI-unsplash.jpg" alt="Scenic mountain landscape" width="600">
+        <p>Explore our site for expert advice, equipment reviews, and tips to improve your game. Whether you're a beginner or a seasoned pro, Golf Central has something for everyone.</p>
+
+        <h2>Featured Article</h2>
+        <p>Learn about the importance of grip and stance in your swing. Our experts break down the fundamentals to help you hit straighter and further.</p>
+
+        <h2>Upcoming Tournaments</h2>
+        <p>Check out the schedule for upcoming PGA and LPGA tournaments. Don't miss your chance to see the world's best golfers in action.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Golf Central. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Central - Equipment</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #28a745; /* Golf course green */
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        nav {
+            background-color: #343a40; /* Dark grey for navigation */
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+        }
+
+        nav a:hover {
+            background-color: #495057;
+            border-radius: 5px;
+        }
+
+        main {
+            padding: 2em;
+            max-width: 800px;
+            margin: 2em auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1em auto;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #343a40;
+            color: white;
+            position:relative;
+            bottom:0;
+            width:100%;
+        }
+
+        .h2{
+            color: #28a745;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Golf Equipment</h1>
+        <p>Explore the tools of the game.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="equipment.html">Equipment</a>
+        <a href="tips & tricks.html">Tips & Tricks</a>
+    </nav>
+
+    <main>
+        <h2>Golf Clubs: The Heart of the Game</h2>
+        <p>Golf clubs are specialized equipment used to strike a golf ball, and they come in various types, such as drivers, irons, and putters, each designed for different shots. The design and material of the club influence its performance, with modern clubs often incorporating advanced technology to enhance accuracy and distance.</p>
+
+        <h2>Other Essential Equipment</h2>
+        <p>Beyond clubs, golfers utilize a range of equipment to enhance their game:</p>
+        <ul>
+            <li><strong>Golf Balls:</strong> Varying in construction and performance characteristics.</li>
+            <li><strong>Golf Shoes:</strong> Providing stability and traction.</li>
+            <li><strong>Golf Bags:</strong> Carrying clubs and accessories.</li>
+            <li><strong>Golf Gloves:</strong> Improving grip and preventing blisters.</li>
+        </ul>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Golf Central. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Golf Central - Tips & Tricks</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #28a745; /* Golf course green */
+            color: white;
+            text-align: center;
+            padding: 2em 0;
+        }
+
+        nav {
+            background-color: #343a40; /* Dark grey for navigation */
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5em 1em;
+            margin: 0 1em;
+        }
+
+        nav a:hover {
+            background-color: #495057;
+            border-radius: 5px;
+        }
+
+        main {
+            padding: 2em;
+            max-width: 800px;
+            margin: 2em auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 1em auto;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #343a40;
+            color: white;
+            position:relative;
+            bottom:0;
+            width:100%;
+        }
+
+        .h2{
+            color: #28a745;
+        }
+
+        .tip-list {
+            list-style-type: disc;
+            padding-left: 2em;
+        }
+
+        .tip-list li {
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Golf Improvement Tips & Tricks</h1>
+        <p>Elevate your golf game with these expert insights.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="equipment.html">Equipment</a>
+        <a href="tips & tricks.html">Tips & Tricks</a>
+    </nav>
+
+    <main>
+        <h2>Fundamental Techniques for Improvement</h2>
+
+        <h3>1. Consistent Grip and Stance</h3>
+        <p>A proper grip and stance are the foundation of a good swing. Ensure your grip is comfortable and repeatable, and your stance is balanced and aligned.</p>
+
+        <h3>2. Mastering the Short Game</h3>
+        <p>Focus on your putting and chipping. The short game often accounts for a significant portion of your score. Practice these areas regularly to save strokes.</p>
+
+        <h3>3. Swing Rhythm and Tempo</h3>
+        <p>Develop a smooth and consistent swing rhythm. Avoid rushing and focus on maintaining a steady tempo throughout your swing.</p>
+
+        <h3>4. Course Management</h3>
+        <p>Plan your shots strategically based on the course layout and your abilities. Avoid unnecessary risks and play to your strengths.</p>
+
+        <h3>5. Regular Practice and Drills</h3>
+        <p>Dedicate time to practice different aspects of your game. Use drills to improve specific areas like driving, iron play, and putting.</p>
+
+        <h3>6. Mental Focus and Concentration</h3>
+        <p>Stay focused and present during your round. Manage your emotions and maintain a positive mindset, even after a bad shot.</p>
+
+        <h3>7. Seek Professional Instruction</h3>
+        <p>Consider taking lessons from a qualified golf instructor. They can provide personalized feedback and help you identify areas for improvement.</p>
+
+        <h3>8. Fitness and Flexibility</h3>
+        <p>Improve your overall fitness and flexibility to enhance your swing and prevent injuries. Incorporate exercises that target core strength and flexibility.</p>
+
+        <h3>9. Analyze Your Game</h3>
+        <p>Track your stats and analyze your performance. Identify your strengths and weaknesses to focus your practice efforts.</p>
+
+        <h3>10. Enjoy the Game</h3>
+        <p>Remember to have fun and enjoy the process of improvement. Golf is a challenging but rewarding sport.</p>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Golf Central. All rights reserved.</p>
+    </footer>
+</body>
+</html>
